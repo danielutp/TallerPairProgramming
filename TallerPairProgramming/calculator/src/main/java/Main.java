@@ -22,7 +22,6 @@ public class Main{
      *             case 3 -> calculator.multiplied();
      *             case 4 -> calculator.split();
      *
-     * @version 1.0.0 2022-05-25
      * @author Daniel Steven Gil Cruz (danistcruz@gmail.com) - Yeferson Valencia (alejandro.yandd@gmail.com)
      * @since 1.0.0
      */

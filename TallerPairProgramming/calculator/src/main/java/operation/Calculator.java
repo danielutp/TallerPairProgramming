@@ -25,8 +25,7 @@ public class Calculator {
      * 1 -> intro(); este nos permite agregar los numeros
      *               para posterios mente darle valos
      *               a los atributos numberOne y numberTwo
-     *
-     * @version 1.0.0 2022-05-25
+
      * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)
      * @since 1.0.0
      */
@@ -41,7 +40,6 @@ public class Calculator {
     /**
      * 1 -> addition(); hace la suma entre numberOne y numberTwo
      *
-     * @version 1.0.0 2022-05-25
      * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)
      * @since 1.0.0
      */
@@ -54,7 +52,6 @@ public class Calculator {
     /**
      * 1 -> addition(); hace la resta entre numberOne y numberTwo
      *
-     * @version 1.0.0 2022-05-25
      * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)
      * @since 1.0.0
      */
@@ -67,7 +64,6 @@ public class Calculator {
     /**
      * 1 -> addition(); hace la multiplicacion entre numberOne y numberTwo
      *
-     * @version 1.0.0 2022-05-25
      * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)
      * @since 1.0.0
      */
@@ -80,7 +76,6 @@ public class Calculator {
     /**
      * 1 -> addition(); hace la division entre numberOne y numberTwo
      *
-     * @version 1.0.0 2022-05-25
      * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)
      * @since 1.0.0
      */
