@@ -4,12 +4,11 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 
 /**
- * Ejercicio Taller Pair programming
- *         contien la clase calculator  con sus metodos
- *                    1 -> addition();
- *      *             2 -> subtraction();
- *      *             3 -> multiplied();
- *      *             4 -> split();
+ * Ejercicio Taller Pair programming contiene la clase calculator  con sus metodos
+ *     1 -> addition();
+ *     2 -> subtraction();
+ *     3 -> multiplied();
+ *     4 -> split();
  *
  * @version 1.0.0 2022-05-25
  * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)

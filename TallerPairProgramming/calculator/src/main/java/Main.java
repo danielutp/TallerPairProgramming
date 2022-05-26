@@ -3,14 +3,6 @@ import operation.Calculator;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
-/**
- * Ejercicio Taller Pair programming
- *         contien la clase main  que ejecuta el proyecto
- *
- * @version 1.0.0 2022-05-25
- * @author Daniel Steven Gil Cruz <danistcruz@gmail.com> - Yeferson Valencia (alejandro.yandd@gmail.com)
- * @since 1.0.0
- */
 public class Main{
     /**
      *        Contiene el metodo main  instanciamos logger calculator y scaner
